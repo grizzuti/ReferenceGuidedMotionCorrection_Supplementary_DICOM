@@ -2,7 +2,7 @@
 
 3D results (DICOM) of the experiments detailed in the paper:
 
-- G. Rizzuti, T. Schakel, N. R. F. Huttinga, J. W. Dankbaar, T. van Leeuwen, and A. Sbrizzi, *Towards retrospective motion correction and reconstruction for clinical 3D brain MRI protocols with a reference contrast*, 2023
+- [G. Rizzuti, T. Schakel, N. R. F. Huttinga, J. W. Dankbaar, T. van Leeuwen, and A. Sbrizzi, *Towards retrospective motion correction and reconstruction for clinical 3D brain MRI protocols with a reference contrast*, 2023](https://arxiv.org/abs/2301.01106)
 
 The results are organized as follows:
 
