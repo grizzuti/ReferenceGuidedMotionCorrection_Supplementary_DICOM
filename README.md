@@ -7,13 +7,18 @@
 The results are organized as follows:
 
 - Experiment 1: robustness test
-    - motion corruption level 1 (corrupted1.zip/corrected1.zip/ground_truth.zip)
-    - motion corruption level 2 (corrupted2.zip/corrected2.zip/ground_truth.zip)
-    - motion corruption level 3 (corrupted3.zip/corrected3.zip/ground_truth.zip)
+    - motion corruption level 1
+    - motion corruption level 2
+    - motion corruption level 3
 - Experiment 2: Choice of the reference contrast
 - Experiment 3: Scanner reconstruction vs raw *k*-space data
     - Input from raw *k*-space data
     - Input from scanner reconstruction
+- Supplementary
+    - Experiment A: increasingly smoothed reference contrast
+        - smoothness level 0 (same as Experiment 2, e.g. the reference is **not** artificially smoothed)
+        - smoothness level 1
+        - smoothness level 2
 
 # Instructions
 

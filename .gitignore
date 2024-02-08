@@ -6,6 +6,12 @@ docs/
 *.new
 Manifest.toml
 paper/
+*.npz
+*.jl
+*.py
+/Supplementary/Experiment A - Smooth reference/corrected_smoothness_level1/
+/Supplementary/Experiment A - Smooth reference/corrected_smoothness_level2/
+/Supplementary/Experiment A - Smooth reference/dummy_DICOM/
 
 
 
